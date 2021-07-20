@@ -1,0 +1,25 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 8px;
+  }
+  /* tr:nth-child(even) { */
+    /* background-color: #dddddd; */
+  /* }   */
+
+  /* .folder-grid{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  } */
+
+  .noFiles{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }

@@ -1,0 +1,10 @@
+.fileStructure{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+.fileTree{
+    width: 100%;
+}
+.showFile{
+    width: 100%;
+}
