@@ -21,9 +21,7 @@ function ShowFile(props) {
   </tr> 
   </tbody>
   ))
-
-  const deletFolder = ()=>{}
-
+  
   return (
     <div>
       <div className="folder-grid" >
